@@ -1,0 +1,17 @@
+{
+  "apiVersion": 2,
+  "name": "boilerplate/firstlock",
+  "version": "0.1.0",
+  "title": "First Block",
+  "category": "common",
+  "icon": "admin-generic",
+  "description": "our first block",
+  "supports": {
+    "html": false,
+    "anchor": true
+  },
+  "textdomain": "gutenberg",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
